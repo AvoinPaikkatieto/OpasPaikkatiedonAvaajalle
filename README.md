@@ -3,18 +3,18 @@ Opas paikkatiedon avaajalle
 
 Tämä opas sisältää parhaita käytäntöjä paikkatietojen avaamisen avoimeksi tiedoksi.
 
-Lyhyt sisällysluettelo
+# Lyhyt sisällysluettelo
 
-Tekniset suositukset (hyvät käytännöt –tyyppisesti)
-	Metatiedot (rakenne, sisältö)
-	Tiedostoformaatti (kuvaukset ja suositukset perusteluineen)
-	Rajapinnat (kuvaukset ja suositukset perusteluineen)
-	Koordinaatistot ja korkeusjärjestelmät (kuvaukset ja suositukset perusteluineen)
-	Ajantasaisuus, päivitys ? metatiedot (yhteys hyödyntäjän etikettiin (toimenpide 3))
-Lainsäädännölliset rajoitukset (tiivis esittely)
-	Yksityisyyden suoja, rauhoitusmääräykset yms. 
+1 Tekniset suositukset (hyvät käytännöt –tyyppisesti)
+  1 Metatiedot (rakenne, sisältö)
+  2	Tiedostoformaatti (kuvaukset ja suositukset perusteluineen)
+  3	Rajapinnat (kuvaukset ja suositukset perusteluineen)
+  4	Koordinaatistot ja korkeusjärjestelmät (kuvaukset ja suositukset perusteluineen)
+  5	Ajantasaisuus, päivitys ? metatiedot (yhteys hyödyntäjän etikettiin (toimenpide 3))
+2 Lainsäädännölliset rajoitukset (tiivis esittely)
+  1 Yksityisyyden suoja, rauhoitusmääräykset yms. 
 	Julkisuuslain tuomat rajoitteet, Tietoyhteiskuntakaaren vaikutukset (voimaan 2015 alusta?)
-Käyttöoikeudet, lisensointi (kuvaukset ja suositukset perusteluineen)
-Datan (ja metadatan) julkaiseminen, missä? (kuvaukset ja suositukset perusteluineen)
-Ohjeistuksen julkaiseminen PTI:ssa
-Palaute aineistoista, neuvonta (väline palautetta ja korjausehdotuksia varten?)
+3 Käyttöoikeudet, lisensointi (kuvaukset ja suositukset perusteluineen)
+4 Datan (ja metadatan) julkaiseminen, missä? (kuvaukset ja suositukset perusteluineen)
+5 Ohjeistuksen julkaiseminen PTI:ssa
+6 Palaute aineistoista, neuvonta (väline palautetta ja korjausehdotuksia varten?)
