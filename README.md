@@ -3,6 +3,8 @@ Opas paikkatiedon avaajalle
 
 Tämä opas sisältää parhaita käytäntöjä paikkatietojen avaamisen avoimeksi tiedoksi.
 
+Lue ohjejita 
+
 # Lyhyt sisällysluettelo
 
 1. Tekniset suositukset (hyvät käytännöt –tyyppisesti)
