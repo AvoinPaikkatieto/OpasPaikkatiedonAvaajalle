@@ -16,5 +16,5 @@ Tämä opas sisältää parhaita käytäntöjä paikkatietojen avaamisen avoimek
 	Julkisuuslain tuomat rajoitteet, Tietoyhteiskuntakaaren vaikutukset (voimaan 2015 alusta?)
 3. Käyttöoikeudet, lisensointi (kuvaukset ja suositukset perusteluineen)
 4. Datan (ja metadatan) julkaiseminen, missä? (kuvaukset ja suositukset perusteluineen)
-5. Ohjeistuksen julkaiseminen PTI:ssa
+5. Ohjeistuksen julkaiseminen Paikkatietoikkunassa
 6. Palaute aineistoista, neuvonta (väline palautetta ja korjausehdotuksia varten?)
