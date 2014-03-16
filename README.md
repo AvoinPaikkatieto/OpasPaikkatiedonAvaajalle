@@ -3,7 +3,7 @@ Opas paikkatiedon avaajalle
 
 Tämä opas sisältää parhaita käytäntöjä paikkatietojen avaamisen avoimeksi tiedoksi.
 
-Lue ohjejita 
+Lue ohjeita [Yleistä](Yleistä.md)-osiosta.
 
 # Lyhyt sisällysluettelo
 
