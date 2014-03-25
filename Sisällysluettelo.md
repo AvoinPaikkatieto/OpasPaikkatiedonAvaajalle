@@ -14,3 +14,4 @@ Sisällysluettelo
 4. Datan (ja metadatan) julkaiseminen, missä? (kuvaukset ja suositukset perusteluineen)
 5. Ohjeistuksen julkaiseminen Paikkatietoikkunassa
 6. Palaute aineistoista, neuvonta (väline palautetta ja korjausehdotuksia varten?)
+7. Lisätietoja
