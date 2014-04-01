@@ -1,12 +1,11 @@
 # Rajapinnat
 
 
-
-
-* WMS, WFS
-* WCS (?)
+* Pakolliset rajapinnat
+  * WMS, WFS
+  * WCS (?)
 
 
 * Muut "web" rajapinnat
-** REST
-** JSON / GeoJSON (vai ovatko tiedostoformaatteja?)
+  * REST
+  * JSON / GeoJSON (vai ovatko tiedostoformaatteja?)
