@@ -1,12 +1,14 @@
 # Tiedostoformaatit
 
-Vektori paikkatiedot (yhdistelmä: alue, viiva, piste, teksti)
-Vektori paikkatiedot (pisteaineistot)
+
+* Vektori paikkatiedot (yhdistelmä: alue, viiva, piste, teksti)
+* Vektori paikkatiedot (pisteaineistot)
 
 
-Rasterikartat
-Ortoilmakuvat
+* Rasterikartat
+* Ortoilmakuvat
+* Stereoilmakuvat (raakamateriaali)
 
-Laserpisteet
-Maastomallit, korkeusmallit
-3D kaupunkimallit
+* Laserpisteet
+* Maastomallit, korkeusmallit
+* 3D kaupunkimallit
