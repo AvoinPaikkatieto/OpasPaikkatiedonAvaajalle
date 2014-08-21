@@ -2,6 +2,7 @@ Sisällysluettelo
 ================
 
 1. [Ensimmäinen pääsääntö](PrimeDirective.md)
+2. [Johdanto](Johdanto.md)
 1. Tekniset suositukset (hyvät käytännöt –tyyppisesti)
   1. [Metatiedot](Metatiedot.md) (rakenne, sisältö)
   2. [Tiedostoformaatit](Tiedostoformaatti.md) (kuvaukset ja suositukset perusteluineen)
