@@ -10,7 +10,7 @@ Sisällysluettelo
   4. [Koordinaatistot ja korkeusjärjestelmät](Koordinaatistot.md) 
   5. [Aineistojen päivitys](AineistojenPaivitys.md) 
 2. [Lainsäädännön vaikutukset](Laki.md) 
-3. Käyttöoikeudet, lisensointi (kuvaukset ja suositukset perusteluineen)
+3. [Käyttöoikeudet, lisensointi](Käyttöoikeudet.md)
 4. Datan (ja metadatan) julkaiseminen, missä? (kuvaukset ja suositukset perusteluineen) - (paikkatietoikkunassa julkaiseminen)
 6. Palaute aineistoista, neuvonta (väline palautetta ja korjausehdotuksia varten?)
 7. Lisätietoja
