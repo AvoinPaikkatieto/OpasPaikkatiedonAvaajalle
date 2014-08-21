@@ -1,9 +1,9 @@
 #Aineistojen julkaiseminen
 
-* Ensisijaisesti metatietojen julkaiseminen Paikkatietoikkunassa *
+*Ensisijaisesti metatietojen julkaiseminen Paikkatietoikkunassa*
 
-* Aineistojen verkkojulkaisu *
+*Aineistojen verkkojulkaisu*
 
-* Muut kanavat *
+*Muut kanavat*
 
 ---
