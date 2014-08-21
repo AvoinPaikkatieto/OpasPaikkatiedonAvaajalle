@@ -3,7 +3,7 @@ Sisällysluettelo
 
 1. [Ensimmäinen pääsääntö](PrimeDirective.md)
 1. Tekniset suositukset (hyvät käytännöt –tyyppisesti)
-  1. Metatiedot (rakenne, sisältö)
+  1. [Metatiedot](Metatiedot.md) (rakenne, sisältö)
   2. [Tiedostoformaatit](Tiedostoformaatti.md) (kuvaukset ja suositukset perusteluineen)
   3. [Rajapintateknologiat](Rajapinta.md) (kuvaukset ja suositukset perusteluineen)
   4.	Koordinaatistot ja korkeusjärjestelmät (kuvaukset ja suositukset perusteluineen)
