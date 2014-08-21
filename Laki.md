@@ -6,5 +6,5 @@ Tietoyhteiskuntakaaren vaikutukset (voimaan 2015 alusta?)*
 *Kopioidaan MMM:n dokumentista*
 
 -----
-
+[Palaa sisällysluetteloon](Sisällysluettelo.md)
 
