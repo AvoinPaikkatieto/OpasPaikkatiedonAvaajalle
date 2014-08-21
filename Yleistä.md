@@ -11,4 +11,6 @@ Lisätietoja: [OGC Geopackage Process] (https://github.com/opengis/geopackage/bl
 
 Erityisesti tekstin muotoiluun auttaa [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+Opas julkaistaan erikseen Paikkatietoikkunassa
+
 
