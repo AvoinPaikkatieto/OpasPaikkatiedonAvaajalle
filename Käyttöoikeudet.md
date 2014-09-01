@@ -1,5 +1,11 @@
 #Käyttöoikeudet
 
-*JHS työn tulokset, CC-BY-4.0*
+Avoimen tiedon keskeinen ominaisuus on maksuttomuus. Avoimen tietoaineiston käyttöoikeus on maksuton eikä vakiomuotoisen tiedon luovutuksesta itsepalveluperiaatteella peritä maksua. Itsepalvelussa tieto voi olla saatavilla valmiina tiedostoina tai se voidaan poimia automaattisesti kyselyn perusteella annettujen kriteerien mukaan.
+
+Vaikka avoimen tiedon käyttöoikeus on maksuton, voi viranomainen periä tiedon luovuttamisesta maksun. Tämä voi olla perusteltua mm. kun luovutettava tietomäärä on suuri, jolloin sen toimittaminen edellyttää erityisiä järjestelyjä kuten siirtokovalevyjen käyttöä tai hyvin suurta tiedonsiirron kapasiteettia. Mikäli tietoon kohdistuu pysyvästi merkittävää kysyntää, viranomainen on voinut toteuttaa erityisen palvelutietokannan ja kyselyrajapinnan tukemaan tiedon hakua ja poimintaa. Palvelua ei ole välttämättä suunnattu tai tarkoitettu erityisesti joidenkin osapuolten käyttöön, vaan rajapintapalvelu voi olla maksutta kenen tahansa käytettävissä. Eri tilanteissa viranomaisen on ratkaistava, miten palvelujen kustannukset katetaan. Julkishallinnossa pyritään eroon ainakin viranomaisten välillä tiedon luovuttamisen aiheuttamien kustannusten perimisestä.
+
+Käyttöoikeuden maksuttomuuden lisäksi avoimelle tiedolle keskeistä on selkeä ja salliva peruuttamaton lisenssi eli käyttölupa, jonka puitteissa tietoaineistoa voi maksutta ja vapaasti hyödyntää, jalostaa, julkaista ja levittää. Rinnakkaisen käyttöoikeuden antamisen lähtökohtana on viranomaisen tekijänoikeus luovutettavaan tietoaineistoon. Usein käyttöluvan ehtona on, että julkaistaessa tai levitettäessä tietoaineistoa alkuperäinen lähde mainitaan, mikäli ei ole erityistä syytä asettaa käytölle lisäehtoja.
+
+Valtiovarainministeriön johdolla valmistellaan julkisen hallinnon suositusta ([JHS](http://www.jhs-suositukset.fi/web/guest/jhs/projects/avoimen-datan-lisenssimalli)) avoimen tietoaineiston käyttöluvaksi. Tavoitteena on suositella kansainvälisen Creative Commons Nimeä 4.0 (CC BY 4.0) –käyttöluvan soveltamista. Creative Commons Nimeä 4.0 -käyttölupa täyttää parhaiten julkishallinnon avointen tietoaineistojen käyttöehdoilta vaadittavat periaatteet. [Creative Commons](creativecommons.fi) -käyttölupien aikaisemmissa versioissa ei ole otettu huomioon EU:n ja ETA:n alueella voimassa olevaa sui generis -tietokantasuojaa, mutta uusimmassa 4.0 -versiossa näin on tehty, minkä vuoksi on turvallista ottaa se käyttöön julkishallinnon tietoaineistojen jälleenhyödyntämisen oikeudelliseksi pohjaksi. 
 
 ----
