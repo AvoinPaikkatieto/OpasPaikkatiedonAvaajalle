@@ -16,17 +16,8 @@ Vektorimuotoisten aineistojen rajapintapalveluna toimii [WFS](http://en.wikipedi
 
 On huomattavaa, että WFS ei sovellu laajojen paikkatietoaineistojen toimittamiseen. Tällöin on tarpeellista toteuttaa [paikkatietojen tiedostopalvelu](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS180_liite3/JHS180_liite3.html).
 
-
-
-
-* Pakolliset rajapinnat
-  * WMS, WFS
-  * WCS (?)
-
-
-* Muut "web" rajapinnat
-  * REST
-  * JSON / GeoJSON (vai ovatko tiedostoformaatteja?)
+## Toissijaiset rajapinnat
+Paikkatiedon tuottajat voivat erityistarpeita varten tuottaa myös muita rajapintapalveluita. Esimerkiksi REST/JSON/GeoJSON -teknologiat soveltuvat hyvin paikkatietoaineistojen suorakäyttöön. On kuitenkin huomattava, että tässä dokumentissa mainitut ensisijaiset rajapinnat ovat lakisääteisiä tehtäviä, toissijaiset rajapinnat (vain) parempaa palvelua.
 
 -----
 [Palaa sisällysluetteloon](Sisällysluettelo.md)
