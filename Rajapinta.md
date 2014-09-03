@@ -12,7 +12,9 @@ Rasterimuotoiset karttakuvapalvelut perustuvat seuraaviin rajapintoihin:
 
 [JHS 180](http://www.jhs-suositukset.fi/suomi/jhs180):n [liitteessä 1](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS180_liite1/JHS180_liite1.html) on tarkemmin suositeltu suomalaisten karttakuvapalvelujen toteuttamista.
 
-Vektorimuotoisten aineistojen rajapintapalveluna toimii [WFS](http://en.wikipedia.org/wiki/Web_Feature_Service) (Web Feature Service)
+Vektorimuotoisten aineistojen rajapintapalveluna toimii [WFS](http://en.wikipedia.org/wiki/Web_Feature_Service) (Web Feature Service). Tämän rajapinnan suomalaiset suositukset ovat [JHS 180](http://www.jhs-suositukset.fi/suomi/jhs180):n [liitteessä 2](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS180_liite1/JHS180_liite2.html) (nimeltään kyselypalvelu).
+
+
 
 * Pakolliset rajapinnat
   * WMS, WFS
