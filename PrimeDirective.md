@@ -8,6 +8,7 @@ Tällä tarkoitetaan sitä, että vaikka avattava (paikka)tieto on muissa kuin t
 
 Lyhyesti: kartat ja taulukot PDF:nä ovat parempia kuin ei mitään. CSV, GML ovat parempia kuin PDF. Rajapinta, API, URI ovat lopullisia tavoitteita.
 
-
+-----
+[Palaa sisällysluetteloon](Sisällysluettelo.md)
 
 
