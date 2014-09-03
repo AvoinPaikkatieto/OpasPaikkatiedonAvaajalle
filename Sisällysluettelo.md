@@ -7,7 +7,7 @@ Sisällysluettelo
   1. [Metatiedot](Metatiedot.md) 
   2. [Tiedostoformaatit](Tiedostoformaatti.md) 
   3. [Rajapinnat](Rajapinta.md) 
-  4. [Koordinaatistot ja korkeusjärjestelmät](Koordinaatistot.md) 
+  4. [Koordinaattijärjestelmät](Koordinaatistot.md) 
   5. [Aineistojen päivitys](AineistojenPaivitys.md) 
 4. [Lainsäädännön vaikutukset](Laki.md) 
 5. [Käyttöoikeudet, lisensointi](Käyttöoikeudet.md)
