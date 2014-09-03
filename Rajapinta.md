@@ -8,7 +8,8 @@ Paikkatietoaineistojen ensisijaiset rajapintateknologiat perustuvat [OGC](http:/
 Rasterimuotoiset karttakuvapalvelut perustuvat seuraaviin rajapintoihin:
 * [WMS](http://en.wikipedia.org/wiki/Web_Map_Service) (Web Map Service)
 * [WMTS](http://en.wikipedia.org/wiki/Web_Map_Tile_Service) (Web Map Tile Service)
-* [WCS](http://en.wikipedia.org/wiki/Web_Coverage_Service) (Web Coverage Service)
+
+Hilamuotoisen paikkatiedon jakeluun käytetään [WCS](http://en.wikipedia.org/wiki/Web_Coverage_Service) (Web Coverage Service) -rajapintaa. Hilamuotoisia paikkatietoja ovat esimerkiksi rasterimuotoinen korkeusmalli, satelliitti- ja ilmakuvat.
 
 [JHS 180](http://www.jhs-suositukset.fi/suomi/jhs180):n [liitteessä 1](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS180_liite1/JHS180_liite1.html) on tarkemmin suositeltu suomalaisten karttakuvapalvelujen toteuttamista.
 
