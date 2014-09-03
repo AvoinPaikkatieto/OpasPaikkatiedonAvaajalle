@@ -4,8 +4,8 @@
   - Rajapintapalvelut 
   - Tiedostolatauspalvelut
   - Varsinaisten paikkatietojen lisäksi tulee 
-    1 Metatietokuvaukset - mitä aineistoa on olemassa?
-    2 Tietotuotekuvaukset - mitä tietoa aineisto sisältää?
+    1. Metatietokuvaukset - mitä aineistoa on olemassa?
+    2. Tietotuotekuvaukset - mitä tietoa aineisto sisältää ja missä rakenteessa?
 
 * Metatietojen julkaisu
   - Ensisijaisesti paikkatietohakemistossa
