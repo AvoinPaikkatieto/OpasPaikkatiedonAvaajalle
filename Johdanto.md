@@ -6,7 +6,7 @@ Oppaan tarkoituksena on antaa teknisiä ohjeita paikkatietojen tuottajille, jotk
 
 Tekniset ohjeet koskevat paikkatietojen metatietoja, tiedostoformaatteja, rajapintoja sekä koordinaattijärjestelmiä. Lisäksi oppaassa on viittauksia lainsäädäntöön, käyttöoikeuksiin ja muihin avaamiseen liittyviin seikkoihin.
 
-Hallinnollisesti paikkatietojen avaaminen ei poikkea muista tietoaineistoista. Siksi tässä oppaassa ei ole laajasti käsitelty tietojen avaamiseen liittyviä hallinnollisia päätöksiä. (Linkkejä?)
+Hallinnollisesti paikkatietojen avaaminen ei poikkea muista tietoaineistoista. Siksi tässä oppaassa ei ole laajasti käsitelty tietojen avaamiseen liittyviä hallinnollisia päätöksiä. Tietoaineistojen avaamisen liittyviä oppaita on lueteltu [lisätietoja](Lisätietoja.md)-kappaleessa.
 
 *Suurempi kuva kopioidaan MMM:n dokumentista* - (olikos se dokumentti jossain?)
 
