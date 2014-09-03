@@ -3,14 +3,16 @@ Sisällysluettelo
 
 1. [Ensimmäinen pääsääntö](PrimeDirective.md)
 2. [Johdanto](Johdanto.md)
-1. Tekniset suositukset 
+3. Tekniset suositukset 
   1. [Metatiedot](Metatiedot.md) 
   2. [Tiedostoformaatit](Tiedostoformaatti.md) 
   3. [Rajapintateknologiat](Rajapinta.md) 
   4. [Koordinaatistot ja korkeusjärjestelmät](Koordinaatistot.md) 
   5. [Aineistojen päivitys](AineistojenPaivitys.md) 
-2. [Lainsäädännön vaikutukset](Laki.md) 
-3. [Käyttöoikeudet, lisensointi](Käyttöoikeudet.md)
-4. [Paikkatietojen ja niiden metatietojen julkaiseminen](Julkaiseminen.md)
-6. [Palautteen kerääminen aineistoista](Palaute.md)
-7. Lisätietoja
+4. [Lainsäädännön vaikutukset](Laki.md) 
+5. [Käyttöoikeudet, lisensointi](Käyttöoikeudet.md)
+6. [Paikkatietojen ja niiden metatietojen julkaiseminen](Julkaiseminen.md)
+7. [Palautteen kerääminen aineistoista](Palaute.md)
+8. [Lisätietoja](Lisätietoja.md)
+
+
