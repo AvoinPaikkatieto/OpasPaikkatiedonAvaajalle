@@ -14,7 +14,5 @@ Päivityksen yhteydessä ei vanhaa aineistoa kannata hävittää. Paras ratkaisu
 
 
 
-*Paikkatietoaineistojen ja metatietojen päivitys, niistä informointointi yms.*
-
 -----
 [Palaa sisällysluetteloon](Sisällysluettelo.md)
