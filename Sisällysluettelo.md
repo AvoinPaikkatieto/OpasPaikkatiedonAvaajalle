@@ -10,7 +10,7 @@ Sisällysluettelo
   4. [Koordinaattijärjestelmät](Koordinaatistot.md) 
   5. [Aineistojen päivitys](AineistojenPaivitys.md) 
 4. [Lainsäädännön vaikutukset](Laki.md) 
-5. [Käyttöoikeudet, lisensointi](Käyttöoikeudet.md)
+5. [Käyttöoikeudet](Käyttöoikeudet.md)
 6. [Paikkatietojen ja niiden metatietojen julkaiseminen](Julkaiseminen.md)
 7. [Palautteen kerääminen aineistoista](Palaute.md)
 8. [Lisätietoja](Lisätietoja.md)
