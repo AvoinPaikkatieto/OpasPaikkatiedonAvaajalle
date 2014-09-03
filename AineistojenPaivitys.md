@@ -12,7 +12,7 @@ Jos aineistossa on tapahtunut merkittäviä muutoksia, niin tulisi jakelussa ole
 
 Päivityksen yhteydessä ei vanhaa aineistoa kannata hävittää. Paras ratkaisu on kopioida vanha aineisto arkistoon ja korvata sen jälkeen jakelussa oleva aineisto uudella aineistolla. Arkistossa olevat avoimet paikkatietoaineistot on hyvä pitää käytettävissä toistaiseksi.
 
-
+Parhaassa tapauksessa päivittyvät paikkatietoaineistot julkaistaan automaattisesti eri jakelukanavissa, ilman manuaalisia vaiheita.
 
 -----
 [Palaa sisällysluetteloon](Sisällysluettelo.md)
