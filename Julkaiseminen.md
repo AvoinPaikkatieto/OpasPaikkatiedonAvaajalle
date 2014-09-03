@@ -1,7 +1,7 @@
 #Paikkatietojen ja niiden metatietojen julkaiseminen
 
-* Paikkatietojen julkaisu *
-** Rajapintapalvelut **
+* Paikkatietojen julkaisu 
+  - Rajapintapalvelut 
 ** Tiedostolatauspalvelut **
 
 
