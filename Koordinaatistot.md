@@ -1,8 +1,8 @@
 #Koordinaattijärjestelmät
 
-Tasokoordinaatist (2D)
-Korkeusjärjestelmät
-3D koordinaattijärjestelmät
+* Tasokoordinaatistot (2D)
+* Korkeusjärjestelmät
+* 3D koordinaattijärjestelmät
 
 -----
 [Palaa sisällysluetteloon](Sisällysluettelo.md)
