@@ -6,6 +6,7 @@
   - Varsinaisten paikkatietojen lisäksi tulee 
     1. Metatieto - mitä aineistoa on olemassa?
     2. Tietotuoteseloste - mitä tietoa aineisto sisältää ja missä rakenteessa?
+    3. Viittaus käyttöoikeuksiin
 
 * Metatietojen julkaisu
   - Ensisijaisesti paikkatietohakemistossa
