@@ -1,8 +1,5 @@
 #Lainsäädäntö
 
-*Yksityisyyden suoja, rauhoitusmääräykset yms.  Julkisuuslain tuomat rajoitteet, 
-Tietoyhteiskuntakaaren vaikutukset (voimaan 2015 alusta?)*
-
 Julkisen hallinnon tuottaman ja hallinnoiman tiedon hyödyntämistä ohjaa lainsäädäntö. Keskeisiä säädöksiä ovat mm.
 -	Julkisuuslaki eli laki viranomaisten toiminnan julkisuudesta ([621/1999](http://www.finlex.fi/fi/laki/ajantasa/1999/19990621)) 
 -	Arkistolaki ([831/1994](http://www.finlex.fi/fi/laki/ajantasa/1994/19940831))
