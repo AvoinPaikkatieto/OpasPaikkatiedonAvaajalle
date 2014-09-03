@@ -12,7 +12,5 @@
   - Oma datakataloogi
   - Tietotuoteseloste julkaistaan tietojen yhteydessä
 
-* Muut kanavat
-
 -----
 [Palaa sisällysluetteloon](Sisällysluettelo.md)
