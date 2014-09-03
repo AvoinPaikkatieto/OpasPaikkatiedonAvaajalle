@@ -11,8 +11,7 @@
 * Metatietojen julkaisu
   - Ensisijaisesti paikkatietohakemistossa
     1. (tähän ohjeet julkaisemisesta)
-  - Organisaation oma tai alueellinen metatietopalvelu
-muista varmistaa tietojen leviäminen paikkatietohakemiston kautta (CSW-rajapinnan hyödyntäminen)
+  - Organisaation oma tai alueellinen metatietopalvelu. Muista varmistaa tietojen leviäminen paikkatietohakemiston kautta (CSW-rajapinnan hyödyntäminen)
   - Tietotuoteseloste julkaistaan tietojen yhteydessä
 
 -----
