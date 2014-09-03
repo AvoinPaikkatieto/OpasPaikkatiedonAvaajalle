@@ -1,10 +1,16 @@
-#Aineistojen julkaiseminen
+#Paikkatietojen ja niiden metatietojen julkaiseminen
 
-*Ensisijaisesti metatietojen julkaiseminen Paikkatietoikkunassa*
+* Paikkatietojen julkaisu
+** Rajapintapalvelut
+** Tiedostolatauspalvelut
 
-*Aineistojen verkkojulkaisu*
 
-*Muut kanavat*
+* Metatietojen julkaisu
+** Ensisijaisesti paikkatietohakemistossa
+** Oma datakataloogi
+
+*Muut kanavat
+
 
 -----
 [Palaa sisällysluetteloon](Sisällysluettelo.md)
