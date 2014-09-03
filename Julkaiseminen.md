@@ -10,6 +10,7 @@
 * Metatietojen julkaisu
   - Ensisijaisesti paikkatietohakemistossa
   - Oma datakataloogi
+  - Tietotuoteseloste julkaistaan tietojen yhteydessä
 
 * Muut kanavat
 
