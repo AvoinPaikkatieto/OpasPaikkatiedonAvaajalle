@@ -3,13 +3,14 @@
 * Paikkatietojen julkaisu 
   - Rajapintapalvelut 
   - Tiedostolatauspalvelut
-
+  - Varsinaisten paikkatietojen lisäksi tulee julkaista tietotuoteseloste (mikä formaatti, kentät yms.)
 
 * Metatietojen julkaisu
   - Ensisijaisesti paikkatietohakemistossa
   - Oma datakataloogi
+  - Tietotuoteseloste
 
-*Muut kanavat
+* Muut kanavat
 
 
 -----
