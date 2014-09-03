@@ -6,4 +6,5 @@
 
 *Muut kanavat*
 
----
+-----
+[Palaa sisällysluetteloon](Sisällysluettelo.md)
