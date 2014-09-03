@@ -8,4 +8,5 @@ Käyttöoikeuden maksuttomuuden lisäksi avoimelle tiedolle keskeistä on selke�
 
 Valtiovarainministeriön johdolla valmistellaan julkisen hallinnon suositusta ([JHS](http://www.jhs-suositukset.fi/web/guest/jhs/projects/avoimen-datan-lisenssimalli)) avoimen tietoaineiston käyttöluvaksi. Tavoitteena on suositella kansainvälisen Creative Commons Nimeä 4.0 (CC BY 4.0) –käyttöluvan soveltamista. Creative Commons Nimeä 4.0 -käyttölupa täyttää parhaiten julkishallinnon avointen tietoaineistojen käyttöehdoilta vaadittavat periaatteet. [Creative Commons](creativecommons.fi) -käyttölupien aikaisemmissa versioissa ei ole otettu huomioon EU:n ja ETA:n alueella voimassa olevaa sui generis -tietokantasuojaa, mutta uusimmassa 4.0 -versiossa näin on tehty, minkä vuoksi on turvallista ottaa se käyttöön julkishallinnon tietoaineistojen jälleenhyödyntämisen oikeudelliseksi pohjaksi. 
 
-----
+-----
+[Palaa sisällysluetteloon](Sisällysluettelo.md)
