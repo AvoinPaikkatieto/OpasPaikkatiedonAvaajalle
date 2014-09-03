@@ -4,5 +4,5 @@
 2. Palautetta voidaan kerätä myös karttakäyttöliittymän avulla. Tällöin on mahdollista saada paikkatietoaineistoon liittyvät virheet helpommin käsiteltävään muotoon.
 3. Varmista, että kerätyt palautteet käsitellään asianmukaisesti. 
 
-
----
+-----
+[Palaa sisällysluetteloon](Sisällysluettelo.md)
