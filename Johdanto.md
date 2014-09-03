@@ -10,7 +10,7 @@ Hallinnollisesti paikkatietojen avaaminen ei poikkea muista tietoaineistoista. S
 
 *Suurempi kuva kopioidaan MMM:n dokumentista* - (olikos se dokumentti jossain?)
 
-Tämä opas on kirjoitettu joukkoistamalla Paikkatietoverkoston Avoin paikkatieto-kärkihankkeen toimesta. Oppaan päivittämiseen voi osallistua kuka tahansa. Opasta ylläpidetään Githubissa (https://github.com/AvoinPaikkatieto/OpasPaikkatiedonAvaajalle)
+Tämä opas on kirjoitettu joukkoistamalla Paikkatietoverkoston Avoin paikkatieto-kärkihankkeen toimesta. Oppaan päivittämiseen voi osallistua kuka tahansa. Opasta ylläpidetään Githubissa (https://github.com/AvoinPaikkatieto/OpasPaikkatiedonAvaajalle).
 
 -----
 [Palaa sisällysluetteloon](Sisällysluettelo.md)
