@@ -2,12 +2,12 @@
 
 * Paikkatietojen julkaisu 
   - Rajapintapalvelut 
-** Tiedostolatauspalvelut **
+  - Tiedostolatauspalvelut
 
 
 * Metatietojen julkaisu
-** Ensisijaisesti paikkatietohakemistossa
-** Oma datakataloogi
+  - Ensisijaisesti paikkatietohakemistossa
+  - Oma datakataloogi
 
 *Muut kanavat
 
