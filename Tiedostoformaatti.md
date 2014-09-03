@@ -14,7 +14,7 @@ Vektoriaineistojen avoimen datan julkaisuissa suositellaan käytetettäväksi se
 
 Avoimen datan julkaisuformaatti suositellaan valittavaksi kukin aineiston oletetun käyttäjäkohderyhmän ja käyttötavan mukaan. Ensisijainen minimisuositus on shape-formaatti. Se on yleiskäyttöisin formaatti tiedon tuottajalle ja käyttäjälle ja sen jatkojalostaminen on käyttäjille helpompaa kuin KML- ja GeoJSON-tiedostojen. KML ja GeoJSON ovat kohderyhmilleen helppokäyttöisimpiä ja nopeiten käyttöönotettavia tiedostoformaatteja, mutta näiden pohjalta aineiston muu jatkokäyttö ja -jalostus on hankalampaa kuin perinteisissä paikkatieto-ohjelmien formaateissa.
 
-Aineiston julkaisijan resurssien puitteissa suositellaan julkaistavaksi valmiiksi useampia mahdollisia formaatteja. Valmiiksi tuotettuja useita eri formaattiversioita tärkeämpää on, että data saadaan ylipäätään avatuksi vähintään yhdessä yleisesti tunnetussa ja käyttökelpoisessa formaatissa.
+Aineiston julkaisijan resurssien puitteissa suositellaan julkaistavaksi valmiiksi useampia mahdollisia formaatteja. Kuitenkin valmiiksi tuotettuja useita eri formaattiversioita tärkeämpää on, että data saadaan ylipäätään avatuksi vähintään yhdessä yleisesti tunnetussa ja käyttökelpoisessa formaatissa.
 
 Koordinaatistojen osalta on syytä huomioida, että KML on aina ja GeoJSON:n on oletuksena (ellei muuta määritetä) maantieteellisessä WGS 84 -koordinaatistossa. Lisäksi KML sisältää kohteiden symbologian asetukset GeoJSON:in sisältäessä pelkään datan ilman symbologiaa (ulkoasun määrittely). GIS-ohjelmistojen formaateissa koordinaatiston voi määritellä eri vaihtoehtojen joukosta.
 
