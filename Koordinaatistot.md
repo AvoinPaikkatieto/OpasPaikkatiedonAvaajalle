@@ -14,7 +14,7 @@ ETRS-TM35FIN on käytössä valtakunnallisissa kartastotöissä ja on siten ensi
 
 ETRS89 on geodeettinen järjestelmä (aikaisemmin kutsuttu myös nimellä maantieteelliset koordinaatit), joissa koordinaatit esitetään leveys- ja pituusasteina (latitudi,longitudi). Näiden koordinaattien käyttö on yleistä kansainvälisessä kartta- ja navigointikäytössä, jolloin ei voida toimia kansallisissa karttaprojektioissa (koordinaatistoissa) vaan toimitaan koordinaateilla vertausellipsoidin pinnalla.
 
-Kartta- ja navigointipalveluiden yhteydessä mainitaan usein käytettävän **WGS84**-koordinaatistoa. Eurooppalainen ETRS89 (EPSG:4258) on käytännössä yhtenevä amerikkalaistuaustaisen WGS84:n (EPSG:4326) kanssa eli koordinaatit ova käytännössä samat paikkatietojen yhteiskäytön vaatimalla tarkkuudella.
+Kartta- ja navigointipalveluiden yhteydessä mainitaan usein käytettävän **WGS84**-koordinaatistoa. Eurooppalainen ETRS89 (EPSG:4258) on käytännössä yhtenevä amerikkalaistuaustaisen WGS84:n (EPSG:4326) kanssa eli koordinaatit ovat käytännössä samat näissä järjestelmissä paikkatietojen yhteiskäytön vaatimalla tarkkuudella.
 
 Paikkatietoformaateista KML on aina WGS84-koordinaatistossa ja GeoJSON oletuksena WGS84:ssä ellei muuta mainita.
 
@@ -29,7 +29,7 @@ Geodeettisen järjestelmän koordinaattien erityipiirteinä on, että sama koord
 
 **ETRS-GKn (EPSG:3873 - EPSG:3885)**
 
-ETRS-GKn koordinaatistot ovat käytössä Suomemassa kunta ja seutukuntatasolla. Lisäksi mittaustarkkuutta vaativivat kartoitustehtävät tehdään ETRS-GKn koordinaatistossa. ETRS-GKn-kaistoja on Suomen yli yhden asteen välein siten, että n=19-31 aluetta sivuavan keskimeridiaanin (pituuspiiri) mukaosesto. Esimerkiksi Tampereella on käytössä ETRS-GK24 (EPSG:3878).
+ETRS-GKn koordinaatistot ovat käytössä Suomessa kunta- ja seutukuntatasolla. Lisäksi mittaustarkkuutta vaativat kartoitustehtävät tehdään ETRS-GKn koordinaatistoissa. ETRS-GKn-kaistoja on Suomen yli yhden asteen välein siten, että n=19-31 aluetta sivuavan keskimeridiaanin (pituuspiiri) mukaisesti. Esimerkiksi Tampereella on käytössä ETRS-GK24 (EPSG:3878).
 
 **Muut koordinaatistot**
 
@@ -37,14 +37,14 @@ Aikaisemmin yleisesti käytetyt KKJ-, VVJ- ja paikalliset koordinaatistot ovat a
 
 **Yleistä:**
 * Eri koordinaatistot tunnistetaan kansainvälisellä **EPSG**-koodilla. ETRS-TM35FIN:n tunniste on EPSG:3067.
-* Kaikki edellä mainitut koordinaatistot perustuvat samaan ETRS89-datumiin, joka käytännössä tarkoittaa, että em. koordinaatistojen välillä pystytään paikkatieto-ohjelmistoilla tekemään matemaattisesti tarkat koordinaatistomuunnokset. Muunnoksissa ei esiinny vanhojen koordinaatistojen epätarkkuuuksista johtuvia muunnosvirheitä.
+* Edellä mainitut uudet koordinaatistot perustuvat samaan ETRS89-datumiin, joka käytännössä tarkoittaa, että em. koordinaatistojen välillä pystytään paikkatieto-ohjelmistoilla tekemään matemaattisesti tarkat koordinaatistomuunnokset. Muunnoksissa ei esiinny vanhojen koordinaatistojen epätarkkuuuksista johtuvia muunnosvirheitä.
 * Rasteriaineistojen osalta on syytä huomioida:
-  * Rasteriaineistojen jälkikäteen tehty koordinaatistomuunnos tuottaa usein ulkoasultaan heikentyneen lopputuloksen. Rasterijulkaisu pitäisi siten pyrkiä tekemään siten suoraan lopullisen käyttkoordinaatistoon.
-  * Rasteriaineistot soveltuvat parhaiten julkaistaviksi tasokoordinaatistoon ja projektioon, jossa mittayksiköinä on metriä/pikseli. Geodeettinen järjestelmä (maantieteellinen koordinaatisto), jossa mittayksikkö olisi astetta/pikseli, mitä käytännössä ei käytetä.
+  * Rasteriaineistojen jälkikäteen tehty koordinaatistomuunnos tuottaa usein ulkoasultaan heikentyneen lopputuloksen. Rasterijulkaisu pitäisi siten pyrkiä tekemään suoraan lopulliseen käyttökoordinaatistoon.
+  * Rasteriaineistot soveltuvat parhaiten julkaistaviksi tasokoordinaatistoon (karttaprojektioon), jossa mittayksiköinä on metriä/pikseli. Geodeettinen järjestelmä (maantieteellinen koordinaatisto) ei ole tyypillisesti käytössä rasteriaineistojen tiedostojulkaisuissa.
 
 
 ## Korkeusjärjestelmät
-Kartta- ja paikkatietoaineiston korkeusjärjestelmänä tulisi käyttää **N2000**-korkeusjärjestelmää, joka on valtakunnallinen suositus. Aikaisempien N60, N43, NN sekä paikallisten korkeusjärjes-telmien käyttöä tulee välttää vanhentuneina.
+Avoimen datan paikkatietoaineiston korkeusjärjestelmänä tulisi käyttää **N2000**-korkeusjärjestelmää, joka on valtakunnallinen suositus. Aikaisempien N60-, N43-, NN- sekä paikallisten korkeusjärjestelmien käyttöä tulee välttää vanhentuneina.
 
 Linkkejä:
 * JHS 180 Paikkatiedon sisältöpalvelut, liite 1, kohta 2 http://docs.jhs-suositukset.fi/jhs-suositukset/JHS180_liite1/JHS180_liite1.pdf
