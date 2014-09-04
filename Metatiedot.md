@@ -13,7 +13,7 @@ Yksilöivä tunniste (aineistot), palvelun URL-osoite (palvelut) | *FI.100314*
 Asiasanat (Yleiseen suomalaiseen ontologiaan -liitetyistä asiasanastoista, jos mahdollista)| *Hallinnolliset yksiköt, avoindata.fi* 
 Maantieteellinen kattavuus (sijaintia rajaava suorakaide - bounding box) | *19.08317359,31.58672881,59.45414258,70.09229553(EPSG:4326)*
 Ajallinen ulottuvuus (julkaisu, päivitys ym. päivämäärätiedot) | *2011-10-12(Luonti)* 
-Viittaus käyttölupaan| *http://www.maanmittauslaitos.fi/avoindata_ lisenssi _vers
+Viittaus käyttölupaan| *http://www.maanmittauslaitos.fi/avoindata\_lisenssi\_vers
 io1_20120501*
 |aineistosta/palvelusta sekä metatiedoista vastaavien osapuolten yhteystiedot||
 |metatiedon viimeisin päivitysajankohta||  
