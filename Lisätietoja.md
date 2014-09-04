@@ -1,7 +1,7 @@
 #Lisätietoja
 
 * Datan avaamisen oppaita
-* Paikkatietohakemisto
+* [Paikkatietohakemisto](http://www.paikkatietohakemisto.fi)
 * Alueelliset avoimen datan hakemistot (HRI, Open Tre)
 * Facebook: [Finnish Open Data Ecosystem](https://www.facebook.com/groups/fi.okfn/)
 * (jotain muuta, mitä?)
