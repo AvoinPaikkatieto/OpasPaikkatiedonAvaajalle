@@ -20,7 +20,7 @@ Valtiovarainministeriö on käynnistänyt osana Avoimen tiedon ohjelmaa dataport
 
 ## Lyhyesti:
 1. Laadi avoimelle paikkatietoaineistolle ja sitä tarjoavalle palvelulle kansallisten suositusten mukaiset tiedot sisältävät metatietokuvailut
-2. Julkaise metatiedot Paikkatietohakemistossa tai ilmoita ylläpidolle rajapinnan osoite, josta metatiedot ovat noudettavissa
+2. [Julkaise](Julkaiseminen.md) metatiedot Paikkatietohakemistossa tai ilmoita ylläpidolle rajapinnan osoite, josta metatiedot ovat noudettavissa
 3. Lisäämällä "avoindata.fi" -avainsanan Paikkatietohakemistossa oleviin metatietoihin saat avoimet aineistosi ja palvelusi näkyville kansalliseen Avoindata.fi -palveluun
 
 -----
