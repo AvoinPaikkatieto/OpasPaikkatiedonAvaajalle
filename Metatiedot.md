@@ -7,13 +7,14 @@ Sisällön osalta paikkatietoaineistojen ja -palvelujen kuvailua ohjeistaa kansa
 **Metatietoelementti** | **Esimerkki elementin sisällöstä** 
 ---------------------- | -------------------------------------
 Aineiston tai -palvelun nimi |  *Kuntajako*  
-Kuvaileva teksti | *Kuntajako on Maanmittauslaitoksen kerran vuodessa tuottama koko Suomen kuntajakoa kuvaava aineisto, josta tehdään vektori- ja rasterimuotoiset tuotteet.* 
-|yksilöivä tunniste (aineistot), palvelun URL-osoite (palvelut)||  
-|viittaus on-line lähteeseen, josta aineisto on saatavilla (aineistot), viittaukset palvelun kautta saatavilla olevien aineistojen metatietoihin (palvelut)||
-|asiasanat (Yleiseen suomalaiseen ontologiaan -liitetyistä asiasanastoista, jos mahdollista)|| 
-|maantieteellinen kattavuus (sijaintia rajaava suorakaide - bounding box)||
-|ajallinen ulottuvuus (julkaisu, päivitys ym. päivämäärätiedot)|| 
-|viittaus käyttölupaan||
+Kuvaileva teksti | *Kuntajako on Maanmittauslaitoksen kerran vuodessa tuottama koko Suomen kuntajakoa kuvaava aineisto, josta tehdään vektori- ja rasterimuotoiset tuotteet...* 
+Yksilöivä tunniste (aineistot), palvelun URL-osoite (palvelut) | *FI.100314* 
+|Viittaus on-line lähteeseen, josta aineisto on saatavilla (aineistot), viittaukset palvelun kautta saatavilla olevien aineistojen metatietoihin (palvelut) | *http://www.maanmittauslaitos.fi/digituotteet/kuntajako*
+Asiasanat (Yleiseen suomalaiseen ontologiaan -liitetyistä asiasanastoista, jos mahdollista)| *Hallinnolliset yksiköt, avoindata.fi* 
+Maantieteellinen kattavuus (sijaintia rajaava suorakaide - bounding box) | *19.08317359,31.58672881,59.45414258,70.09229553(EPSG:4326)*
+Ajallinen ulottuvuus (julkaisu, päivitys ym. päivämäärätiedot) | *2011-10-12(Luonti)* 
+Viittaus käyttölupaan| *http://www.maanmittauslaitos.fi/avoindata_ lisenssi _vers
+io1_20120501*
 |aineistosta/palvelusta sekä metatiedoista vastaavien osapuolten yhteystiedot||
 |metatiedon viimeisin päivitysajankohta||  
 
