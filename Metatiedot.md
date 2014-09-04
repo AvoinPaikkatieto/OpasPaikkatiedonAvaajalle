@@ -3,6 +3,7 @@
 Avoimen paikkatiedon löytämisen edellytyksenä on, että paikkatietoaineistot ja -palvelut kuvaillaan metatietojen avulla hakupalveluihin. Kuvailun tulee olla yhteentoimiva yleisesti käytettyjen metatietomallien kanssa. Hakupalvelun avulla tiedon potentiaalinen hyödyntäjä voi löytää aineiston ja arvioida sen soveltuvuutta aiottuun tarkoitukseen.Toki yleisten hakukoneidenkin avulla on mahdollista löytää avointa paikkatietoa, mutta tulokset ovat kovin sattumanvaraisia.
 
 Sisällön osalta paikkatietoaineistojen ja -palvelujen kuvailua ohjeistaa kansainvälinen ISO 19115 -standardi. Standardin soveltaminen on ohjeistettu julkisen hallinnon suosituksessa [JHS 158 Paikkatiedon metatiedot](http://www.jhs-suositukset.fi/suomi/jhs158). Keskeisimpiä metatiedoissa esitettäviä asioita paikkatietoaineistoille ja -palveluille ovat:    
+
 |**Metatietoelementti**|**Esimerkki elementin sisällöstä**|
 |aineiston tai -palvelun nimi||  
 |kuvaileva teksti||  
