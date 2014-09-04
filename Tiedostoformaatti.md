@@ -77,13 +77,25 @@ Yleiskäyttöisten formaattien lisäksi on toimialakohtaisia standardeja (formaa
 | :--------- | :-------: | :--------- |
 | **KuntaGML/KRYSP**	| Asemakaava; Kantakartta; Opastavat tiedot (Opaskartta, Osoitteet, Palvelut, Verkkotopologia); Rakennusvalvonta; Poikkeamispäätös ja suunnittelutarveratkaisu; Yleisen alueen käytön lupa; Ympäristö (Ilmoitukset, Vesihuoltolaki, Maa-ainesluvat, Ympäristöluvat) | http://www.paikkatietopalvelu.fi |
 | **InfraModel3**		| Infra-rakentamisen tiedot | http://www.infrabim.fi/inframodel-3 |
-| **CityGML**		| Kaupunkimallit |
+| **CityGML**		| Kaupunkimallit | http://www.citygml.org |
 
 ## Formaattimuunnosvälineet
-Tulossa
 
-## Kohdeluokitus
-Tulossa
+Kaupalliset valmisohjelmistot sekä avoimen lähdekoodin ohjelmistot sisältävät tyypillisesti työvälineitä formaattimuunnoksiin. Mikäli käytössö ei ole valmiita välineitä, on yksi mahdollisuus **GDAL/ORG**, mikä on avoimeen lähdekoodiin perustuva ohjelmistokirjasto formaattimuunnoksiin. Nämä muunnokset ovat ajettavissa myös komentoriviltä.
+
+Linkkejä:
+* GDAL http://www.gdal.org
+
+## Avoimen paikkatiedon kohdeluokitus ja tietosisältö
+
+Avoimen datan yhteydessä suositellaan käytettävän mahdollisimman selkokielistä kohdeluokituksen nimeämistä ja ominaisuustietojen käyttöä, jotka tulisi olla selostetuna tietotuotemäärittelyssä. Tietotuotteidenmäärittelyä on ohjeistettu JHS suosituksessa JHS 177 Paikkatietotuotteen määrittely.
+
+Avoimen datan tietorakenne tulee olla optimoitu käyttäjälle ja se todennäköisesti eroaa tiedon tuottajan ylläpitojärjestelmän tietorakenteesta. Avoimen datan julkaisun valmistelussa aineistosta poistetaan organisaation sisäiseen käyttöön tarkoitetut tiedot esim. tiedon luojat, muokkaajat (nimitie-toja), luonti- ja muokkauspäivämäärät.
+
+Tässä yhteydessä ei käsitellä lainsäädännöstä ja tie-tosuojasta johtuen vaadittavaa tietojen yleistämistä tms. vaadittua avoimen datan ennakkokäsittelyä. 
+
+Linkkejä:
+* JHS 177 Paikkatietotuotteen määrittely http://www.jhs-suositukset.fi/suomi/jhs177
 
 ## Lyhyesti:
 1. Arvioi ja valitse aineiston ja oletetun käyttäjäryhmän mukainen formaatti.
