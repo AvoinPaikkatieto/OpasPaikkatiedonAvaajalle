@@ -18,7 +18,7 @@ Aineiston julkaisijan resurssien puitteissa suositellaan julkaistavaksi valmiiks
 
 Koordinaatistojen osalta on syytä huomioida, että KML on aina ja GeoJSON:n on oletuksena (ellei muuta määritetä) maantieteellisessä WGS 84 -koordinaatistossa. Lisäksi KML sisältää kohteiden symbologian asetukset GeoJSON:in sisältäessä pelkään datan ilman symbologiaa (ulkoasun määrittely). GIS-ohjelmistojen formaateissa koordinaatiston voi määritellä eri vaihtoehtojen joukosta. GIS-formaateista TAB-sisältää symbologian ja shape ei sisällä symbologiaa.
 
-GML ja OGC GeoPackage ovat avoimia ohjelmistoriippumattomia formaatteja/stadardeja, mutta ne eivät ole käytännössä levinneet yhtä laajaan käyttöön kuin muut yllä mainitut formaatit.
+**GML** ja **OGC GeoPackage** ovat avoimia ohjelmistoriippumattomia formaatteja/stadardeja, mutta ne eivät ole käytännössä levinneet yhtä laajaan käyttöön kuin muut yllä mainitut formaatit.
 
 Linkkejä:
 * Shape http://en.wikipedia.org/wiki/Shapefile
@@ -65,14 +65,19 @@ Linkkejä:
 * JPEG 2000 http://fi.wikipedia.org/wiki/JPEG_2000
 
 
-## Laserpisteaineistot
-Tulossa
+## Laserkeilausaineistot
 
-## Muut aineistotyypit
-Tulossa
+Laserkeilausaineistoissa yleisesti käytettyjä formaatteja ovat **LAZ** ja *LAS**.
 
 ## Toimialakohtaiset standardit
-Tulossa
+
+Yleiskäyttöisten formaattien lisäksi on toimialakohtaisia standardeja (formaatteja), joita voi soveltaa myös avoimen datan jakelussa.
+
+| Formaatti: | Käyttö:  | Linkkejä: |
+| :--------- | :-------: | :--------- |
+| **KuntaGML/KRYSP**	| Asemakaava; Kantakartta; Opastavat tiedot (Opaskartta, Osoitteet, Palvelut, Verkkotopologia); Rakennusvalvonta; Poikkeamispäätös ja suunnittelutarveratkaisu; Yleisen alueen käytön lupa; Ympäristö (Ilmoitukset, Vesihuoltolaki, Maa-ainesluvat, Ympäristöluvat) | http://www.paikkatietopalvelu.fi |
+| **InfraModel3**		| Infra-rakentamisen tiedot | http://www.infrabim.fi/inframodel-3 |
+| **CityGML**		| Kaupunkimallit |
 
 ## Formaattimuunnosvälineet
 Tulossa
