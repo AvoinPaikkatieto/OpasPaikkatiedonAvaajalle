@@ -5,6 +5,7 @@ Avoimen paikkatiedon löytämisen edellytyksenä on, että paikkatietoaineistot 
 Sisällön osalta paikkatietoaineistojen ja -palvelujen kuvailua ohjeistaa kansainvälinen ISO 19115 -standardi. Standardin soveltaminen on ohjeistettu julkisen hallinnon suosituksessa [JHS 158 Paikkatiedon metatiedot](http://www.jhs-suositukset.fi/suomi/jhs158). Keskeisimpiä metatiedoissa esitettäviä asioita paikkatietoaineistoille ja -palveluille ovat:    
 
 **Metatietoelementti** | **Esimerkki elementin sisällöstä** 
+---------------------- | -------------------------------------
 aineiston tai -palvelun nimi |    
 | kuvaileva teksti |  |  
 |yksilöivä tunniste (aineistot), palvelun URL-osoite (palvelut)||  
