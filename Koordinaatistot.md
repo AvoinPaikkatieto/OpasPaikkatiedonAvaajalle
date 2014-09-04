@@ -2,38 +2,45 @@
 
 ## Koordinaatistot
 
-Koordinaatistoja ja korkeusjärjestelmiä esitellään yksityiskohtaisemmin useissa eri internetlähteissä, joihin on linkkejä tämän kohdan lopussa. Yksityiskohtaisten kuvausten osalta lukijaa pyydetään tutustumaan näihin lähteisiin. Lyhyesti tiivistettynä avoimen datan yhteydessä voidaan käyttää seuraavia koordinaatistoja käyttötapauksesta riippuen:
+Koordinaatistoja ja korkeusjärjestelmiä esitellään yksityiskohtaisesti useissa eri internetlähteissä, joihin on linkkejä tämän kohdan lopussa. Yksityiskohtaisten kuvausten osalta lukijaa pyydetään tutustumaan näihin lähteisiin.
+
+Lyhyesti tiivistettynä avoimen datan yhteydessä voidaan käyttää seuraavia koordinaatistoja käyttötapauksesta riippuen:
 
 **ETRS-TM35FIN (EPSG:3067)**
 
-ETRS-TM35FIN on käytössä valtakunnallisissa kartastotöissä ja siten ensisijainen koordinaatisto valtakunnallisiin aineistoihin. 
+ETRS-TM35FIN on käytössä valtakunnallisissa kartastotöissä ja on siten ensisijainen koordinaatisto valtakunnallisiin aineistoihin. 
 
 **ETRS89 (EPSG:4258)**
 
-ETRS89 on geodeettinen järjestelmä (aik. maantieteelliset koordinaatit) joissa koordinaatit esitetään leveys- ja pituusasteina (latitudi,longitudi). Näiden koordinaattien käyttö on yleistä kansainvälisissä kartta- ja navigointikäytössä, jolloin ei voida toimia kansallisissa koordinaatistoissa.
+ETRS89 on geodeettinen järjestelmä (aikaisemmin kutsuttu myös nimellä maantieteelliset koordinaatit), joissa koordinaatit esitetään leveys- ja pituusasteina (latitudi,longitudi). Näiden koordinaattien käyttö on yleistä kansainvälisessä kartta- ja navigointikäytössä, jolloin ei voida toimia kansallisissa karttaprojektioissa (koordinaatistoissa) vaan toimitaan koordinaateilla vertausellipsoidin pinnalla.
 
-Kartta- ja navigointipalveluiden yhteydessä mainitaan usein käytettävän **WGS84**-koordinaatistoa. Eurooppalainen ETRS89 (EPSG:4258) on käytännössä yhtenevä amerikkalaistuaustaisen WGS84:n (EPSG:4326) kanssa eli koordiaatit ova käytännössä samat.
+Kartta- ja navigointipalveluiden yhteydessä mainitaan usein käytettävän **WGS84**-koordinaatistoa. Eurooppalainen ETRS89 (EPSG:4258) on käytännössä yhtenevä amerikkalaistuaustaisen WGS84:n (EPSG:4326) kanssa eli koordinaatit ova käytännössä samat paikkatietojen yhteiskäytön vaatimalla tarkkuudella.
 
-WGS84 koordinaatisto 
+Paikkatietoformaateista KML on aina WGS84-koordinaatistossa ja GeoJSON oletuksena WGS84:ssä ellei muuta mainita.
 
-Paikkatietoformaateista on syytä huomioida mm. KML, GeoJSON ovat 
+Geodeettisen järjestelmän koordinaattien erityipiirteinä on, että sama koordinaattipari voidaan esittää eri muodossa eri yksiköillä. **Asteen desimaalit ovat suositeltava esitysmuoto avoimelle datalle** ja ne ovat käytössä esim karttapalveluissa sijainnin osoittavissa URL:eissa. Minuutit ja sekunnit esitysmuoto on käytössä mm. GPS paikannuksessa.
 
-**ETRS-GKn-kaistat (EPSG:3873 - EPSG:3885)**
+| Esitysmuoto: | Latitudi: | Longitudi: |
+| ---          | :-------: | :--------: |
+| **Asteen desimaalit** | 61.50493836 | 23.74319821 |
+| Minuutin desimaalit | 61° 30.296' | 23° 44.592' |
+| Sekunnin desimaalit | 61°30' 17.778'' | 23° 44' 35.514'' |
 
-GK-kaistat paikallisissa aineistoissa 
-n=19-31
 
+**ETRS-GKn (EPSG:3873 - EPSG:3885)**
 
+ETRS-GKn koordinaatistot ovat käytössä Suomemassa kunta ja seutukuntatasolla. Lisäksi mittaustarkkuutta vaativivat kartoitustehtävät tehdään ETRS-GKn koordinaatistossa. ETRS-GKn-kaistoja on Suomen yli yhden asteen välein siten, että n=19-31 aluetta sivuavan keskimeridiaanin (pituuspiiri) mukaosesto. Esimerkiksi Tampereella on käytössä ETRS-GK24 (EPSG:3878).
 
-WGS-84 ja ETRS-89 maantieteellinen ovat käytännössä yhteneviä
+**Muut koordinaatistot**
 
-EPSG-koodit tunnisteina
-
-KKJ, VVJ ja paikalliset ovat vanhentuneita => Vältetään
+Aikaisemmin yleisesti käytetyt KKJ-, VVJ- ja paikalliset koordinaatistot ovat avoimen datan kannalta käytännössä vanhentuneita, joten niiden käyttöä tulisi välttää avoimessa datassa.
 
 **Yleistä:**
 * Eri koordinaatistot tunnistetaan kansainvälisellä **EPSG**-koodilla. ETRS-TM35FIN:n tunniste on EPSG:3067.
-* Kaikki edellä mainitut koordinaatistot perustuvat samaan ETRS89-datumiin, joka käytännössä tarkoittaa, että em. koordinaatistojen välillä pystytään paikkatieto-ohjelmistoilla tekemään matemaattisesti tarkat koordinaatistomuunnokset. Muunnoksissa ei esiinnny vanhoille koordinaatistoille tyypillisiä.
+* Kaikki edellä mainitut koordinaatistot perustuvat samaan ETRS89-datumiin, joka käytännössä tarkoittaa, että em. koordinaatistojen välillä pystytään paikkatieto-ohjelmistoilla tekemään matemaattisesti tarkat koordinaatistomuunnokset. Muunnoksissa ei esiinny vanhojen koordinaatistojen epätarkkuuuksista johtuvia muunnosvirheitä.
+* Rasteriaineistojen osalta on syytä huomioida:
+  * Rasteriaineistojen jälkikäteen tehty koordinaatistomuunnos tuottaa usein ulkoasultaan heikentyneen lopputuloksen. Rasterijulkaisu pitäisi siten pyrkiä tekemään siten suoraan lopullisen käyttkoordinaatistoon.
+  * Rasteriaineistot soveltuvat parhaiten julkaistaviksi tasokoordinaatistoon ja projektioon, jossa mittayksiköinä on metriä/pikseli. Geodeettinen järjestelmä (maantieteellinen koordinaatisto), jossa mittayksikkö olisi astetta/pikseli, mitä käytännössä ei käytetä.
 
 
 ## Korkeusjärjestelmät
