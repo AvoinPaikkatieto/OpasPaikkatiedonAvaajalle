@@ -13,10 +13,9 @@ Yksilöivä tunniste (aineistot), palvelun URL-osoite (palvelut) | *FI.100314*
 Asiasanat (Yleiseen suomalaiseen ontologiaan -liitetyistä asiasanastoista, jos mahdollista)| *Hallinnolliset yksiköt, avoindata.fi* 
 Maantieteellinen kattavuus (sijaintia rajaava suorakaide - bounding box) | *19.08317359,31.58672881,59.45414258,70.09229553(EPSG:4326)*
 Ajallinen ulottuvuus (julkaisu, päivitys ym. päivämäärätiedot) | *2011-10-12(Luonti)* 
-Viittaus käyttölupaan| *http://www.maanmittauslaitos.fi/avoindata\_lisenssi\_vers
-io1_20120501*
-|aineistosta/palvelusta sekä metatiedoista vastaavien osapuolten yhteystiedot||
-|metatiedon viimeisin päivitysajankohta||  
+Viittaus käyttölupaan| *http://www.maanmittauslaitos.fi/avoindata_lisenssi_versio1_20120501*
+Aineistosta/palvelusta sekä metatiedoista vastaavien osapuolten yhteystiedot | *Maanmittauslaitos,sähköpostiosoite*
+Metatiedon viimeisin päivitysajankohta | *2014-05-15T16:27:48*  
 
 JHS 158 -suosituksen mukaisten paikkatiedon metatietojen laatiminen ja liittäminen kansalliseen [Paikkatietohakemisto](http://www.paikkatietohakemisto.fi)-hakupalveluun on useille viranomaisille lakisääteinen tehtävä. Paikkatietohakemistossa myös muut kuin lainsäädännön velvoittamat paikkatiedon tuottajat voivat luoda ja ylläpitää paikkatiedon metatietoja. Metatietoja voidaan myös noutaa Paikkatietohakemistoon muista [CSW-rajapintastandardin](http://en.wikipedia.org/wiki/Catalog_Service_for_the_Web) toteuttavista metatietopalveluista. Tällaisia voivat olla esimerkiksi paikalliset, tietyn aihepiirin kattavat tai organisaatiokohtaiset metatietopalvelut kuten Ilmatieteen laitoksen [FMI catalog](http://catalog.fmi.fi).
 
