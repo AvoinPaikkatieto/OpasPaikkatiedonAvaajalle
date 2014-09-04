@@ -1,6 +1,6 @@
 # Tiedostoformaatit
 
-Paikkatietokäytössä olevia tiedostoformaatteja on lukuisa määrä. Kulloinkin kytetetty formaatti riippuu aineiston tyypistä, käyttötavasta ja käytettävästä ohjelmistosta. Seuraavassa ohjeistetaan tiedostoformaattien käyttöä avoimien paikkatietojen tiedostopalveluissa. Tällöin ohjeistus kohdistuu yleisimpiin ja oletetut käyttötarpeet parhaiten täyttäviksi arvioituihin formaatteihin.
+Paikkatietokäytössä olevia tiedostoformaatteja on lukuisa määrä. Kulloinkin käytetetty formaatti riippuu aineiston tyypistä, käyttötavasta ja käytettävästä ohjelmistosta. Seuraavassa ohjeistetaan tiedostoformaattien käyttöä avoimien paikkatietojen tiedostopalveluissa. Tällöin ohjeistus kohdistuu yleisimpiin ja oletetut käyttötarpeet parhaiten täyttäviksi arvioituihin formaatteihin.
 
 ## Vektoriaineistot
 
@@ -8,15 +8,15 @@ Vektoriaineistojen avoimen datan julkaisuissa suositellaan käytetettäväksi se
 
 | Kohderyhmä ja käyttötapa: | Formaatti: | Huomautukset: |
 | :--------- | :-------: | :--------- |
-| Aineiston ammattimainen käyttö ja jatkojalostus | **GIS-ohjelmistojen formaatit** | Yleisimmät Suomessa Shape ja TAB |
+| Aineiston ammattimainen käyttö ja jatkojalostus | **GIS-ohjelmistojen formaatit** | Yleisimmät Suomessa shape ja TAB |
 | Suuren yleisön katselukäyttö | **KML** | Katso alla |
 | Sovelluskehittäjät (web) | **GeoJSON** | Katso alla |
 
-Avoimen datan julkaisuformaatti suositellaan valittavaksi kunkin aineiston oletetun käyttäjäkohderyhmän ja käyttötavan mukaan. Ensisijainen minimisuositus on shape-formaatti. Se on yleiskäyttöisin formaatti tiedon tuottajalle ja käyttäjälle ja sen jatkojalostaminen on käyttäjille helpompaa kuin KML- ja GeoJSON-tiedostojen. KML ja GeoJSON ovat kohderyhmilleen helppokäyttöisimpiä ja nopeiten käyttöönotettavia tiedostoformaatteja, mutta näiden pohjalta aineiston muu jatkokäyttö ja -jalostus on hankalampaa kuin perinteisissä paikkatieto-ohjelmien formaateissa.
+Avoimen datan vektorimuotoinen julkaisuformaatti suositellaan valittavaksi kunkin aineiston oletetun käyttäjäkohderyhmän ja käyttötavan mukaan. Ensisijainen minimisuositus on shape-formaatti. Se on yleiskäyttöinen formaatti tiedon tuottajalle ja käyttäjälle ja sen jatkojalostaminen on käyttäjille helpompaa kuin KML- ja GeoJSON-tiedostojen. KML ja GeoJSON ovat kohderyhmilleen helppokäyttöisimpiä ja nopeiten käyttöönotettavia tiedostoformaatteja, mutta näiden pohjalta aineiston muu jatkokäyttö ja -jalostus on hankalampaa kuin perinteisissä paikkatieto-ohjelmien formaateissa.
 
 Aineiston julkaisijan resurssien puitteissa suositellaan julkaistavaksi valmiiksi useampia mahdollisia formaatteja. Kuitenkin valmiiksi tuotettuja useita eri formaattiversioita tärkeämpää on, että data saadaan ylipäätään avatuksi vähintään yhdessä yleisesti tunnetussa ja käyttökelpoisessa formaatissa.
 
-Koordinaatistojen osalta on syytä huomioida, että KML on aina ja GeoJSON:n on oletuksena (ellei muuta määritetä) maantieteellisessä WGS 84 -koordinaatistossa. Lisäksi KML sisältää kohteiden symbologian asetukset GeoJSON:in sisältäessä pelkään datan ilman symbologiaa (ulkoasun määrittely). GIS-ohjelmistojen formaateissa koordinaatiston voi määritellä eri vaihtoehtojen joukosta. GIS-formaateista TAB-sisältää symbologian ja shape ei sisällä symbologiaa.
+Koordinaatistojen osalta on syytä huomioida, että KML on aina ja GeoJSON:n on oletuksena (ellei muuta määritetä) maantieteellisessä WGS 84 -koordinaatistossa. Lisäksi KML sisältää kohteiden symbologian asetukset GeoJSON:in sisältäessä pelkän datan ilman symbologiaa (ulkoasun määrittely). GIS-ohjelmistojen formaateissa koordinaatiston voi määritellä eri vaihtoehtojen joukosta. GIS-formaateista TAB sisältää symbologian ja shape ei sisällä symbologiaa.
 
 **GML** ja **OGC GeoPackage** ovat avoimia ohjelmistoriippumattomia formaatteja/stadardeja, mutta ne eivät ole käytännössä levinneet yhtä laajaan käyttöön kuin muut yllä mainitut formaatit.
 
@@ -33,7 +33,7 @@ Linkkejä:
 
 Pistemäisten paikkatietokohteiden jakeluun voi käyttää yllä mainittuja formaatteja. Näiden lisäksi yksinkertainen ja suositeltava menetelmä on käyttää CSV-tiedostoja.
 
-CSV on yksinkertainen tekstitiedosto, jossa ominaisuustietokentät ml. koordinaatit erotetaan toisistaan pilkuilla (tai muulla välimerkillä). Eri ohjelmien oletuksena käyttämä kenttien välinen erotin ja desimaalierotin saattaa vaihdella. Jos kenttien erottimena on yleisesti kansainvälisesti käytetty pilkku, tulee julkaisijan tarkistaa, että mahdolliset desimaaliluvut saadaan tunnistettua aineistosta. Tekstitiedoston merkistönä suositellaan käytettäväksi UTF-8 tai jos tästä poiketaan, niin siitä tulisi ilmoittaa tietotuoteselosteessa.
+CSV on yksinkertainen tekstitiedosto, jossa ominaisuustietokentät ml. koordinaatit erotetaan toisistaan pilkuilla (tai muulla erotinmerkillä). Eri ohjelmien oletuksena käyttämä kenttien välinen erotin ja desimaalierotin saattaa vaihdella. Jos kenttien erottimena on yleisesti kansainvälisesti käytetty pilkku, tulee julkaisijan tarkistaa, että mahdolliset desimaaliluvut saadaan tunnistettua aineistosta. Tekstitiedoston merkistönä suositellaan käytettäväksi UTF-8 tai jos tästä poiketaan, niin siitä tulisi ilmoittaa tietotuoteselosteessa.
 
 
 Linkkejä:
@@ -67,7 +67,7 @@ Linkkejä:
 
 ## Laserkeilausaineistot
 
-Laserkeilausaineistoissa yleisesti käytettyjä formaatteja ovat **LAZ** ja *LAS**.
+Laserkeilausaineistoissa yleisesti käytettyjä formaatteja ovat **LAZ** ja **LAS**.
 
 ## Toimialakohtaiset standardit
 
@@ -81,7 +81,7 @@ Yleiskäyttöisten formaattien lisäksi on toimialakohtaisia standardeja (formaa
 
 ## Formaattimuunnosvälineet
 
-Kaupalliset valmisohjelmistot sekä avoimen lähdekoodin ohjelmistot sisältävät tyypillisesti työvälineitä formaattimuunnoksiin. Mikäli käytössö ei ole valmiita välineitä, on yksi mahdollisuus **GDAL/ORG**, mikä on avoimeen lähdekoodiin perustuva ohjelmistokirjasto formaattimuunnoksiin. Nämä muunnokset ovat ajettavissa myös komentoriviltä.
+Kaupalliset valmisohjelmistot sekä avoimen lähdekoodin ohjelmistot sisältävät tyypillisesti työvälineitä formaattimuunnoksiin. Mikäli käytössä ei ole valmiita välineitä, on yksi mahdollisuus **GDAL/ORG**, mikä on avoimeen lähdekoodiin perustuva ohjelmistokirjasto formaattimuunnoksiin. Nämä muunnokset ovat ajettavissa myös komentoriviltä.
 
 Linkkejä:
 * GDAL http://www.gdal.org
@@ -90,12 +90,20 @@ Linkkejä:
 
 Avoimen datan yhteydessä suositellaan käytettävän mahdollisimman selkokielistä kohdeluokituksen nimeämistä ja ominaisuustietojen käyttöä, jotka tulisi olla selostetuna tietotuotemäärittelyssä. Tietotuotteidenmäärittelyä on ohjeistettu JHS suosituksessa JHS 177 Paikkatietotuotteen määrittely.
 
-Avoimen datan tietorakenne tulee olla optimoitu käyttäjälle ja se todennäköisesti eroaa tiedon tuottajan ylläpitojärjestelmän tietorakenteesta. Avoimen datan julkaisun valmistelussa aineistosta poistetaan organisaation sisäiseen käyttöön tarkoitetut tiedot esim. tiedon luojat, muokkaajat (nimitie-toja), luonti- ja muokkauspäivämäärät.
+Avoimen datan tietorakenne tulee olla optimoitu käyttäjälle ja se todennäköisesti eroaa tiedon tuottajan ylläpitojärjestelmän tietorakenteesta. Avoimen datan julkaisun valmistelussa aineistosta poistetaan organisaation sisäiseen käyttöön tarkoitetut tiedot esim. tiedon luojat, muokkaajat (nimitietoja), luonti- ja muokkauspäivämäärät.
 
 Tässä yhteydessä ei käsitellä lainsäädännöstä ja tie-tosuojasta johtuen vaadittavaa tietojen yleistämistä tms. vaadittua avoimen datan ennakkokäsittelyä. 
 
 Linkkejä:
 * JHS 177 Paikkatietotuotteen määrittely http://www.jhs-suositukset.fi/suomi/jhs177
+
+## Muut aineistot (ohjeistamattomat)
+Ohjeen tässä versiossa ei ole käsitelty ja ohjeistettu seuraavia tunnistettuja aineistotyyppejä:
+* Rasteri-aineistojen tyyppikohtaiset formaattisuositukset ja  pakkausalgoritmit
+* Tietokanta-muodossa luovutettavat aineistot
+* Hila-aineistot
+* Maastomallit, korkeusmallit (TIN kolmiomallit)
+* Kaupunkimallit
 
 ## Lyhyesti:
 1. Arvioi ja valitse aineiston ja oletetun käyttäjäryhmän mukainen formaatti.
