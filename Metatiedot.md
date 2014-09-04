@@ -6,8 +6,8 @@ Sisällön osalta paikkatietoaineistojen ja -palvelujen kuvailua ohjeistaa kansa
 
 **Metatietoelementti** | **Esimerkki elementin sisällöstä** 
 ---------------------- | -------------------------------------
-aineiston tai -palvelun nimi |    
-| kuvaileva teksti |  |  
+Aineiston tai -palvelun nimi |  *Kuntajako*  
+Kuvaileva teksti | *Kuntajako on Maanmittauslaitoksen kerran vuodessa tuottama koko Suomen kuntajakoa kuvaava aineisto, josta tehdään vektori- ja rasterimuotoiset tuotteet.* 
 |yksilöivä tunniste (aineistot), palvelun URL-osoite (palvelut)||  
 |viittaus on-line lähteeseen, josta aineisto on saatavilla (aineistot), viittaukset palvelun kautta saatavilla olevien aineistojen metatietoihin (palvelut)||
 |asiasanat (Yleiseen suomalaiseen ontologiaan -liitetyistä asiasanastoista, jos mahdollista)|| 
