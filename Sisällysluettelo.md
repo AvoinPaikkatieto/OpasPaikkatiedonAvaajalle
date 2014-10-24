@@ -14,6 +14,6 @@ Sisällysluettelo
 6. [Paikkatietojen ja niiden metatietojen julkaiseminen](Julkaiseminen.md)
 7. [Palautteen kerääminen aineistoista](Palaute.md)
 8. [Lisätietoja](Lisätietoja.md)
-9. [Avoimet kysymykset](Avoimet kysymykset)
+9. [Avoimet kysymykset](AvoimetKysymykset.md)
 
 
