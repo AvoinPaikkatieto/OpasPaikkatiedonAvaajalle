@@ -104,6 +104,7 @@ Ohjeen tässä versiossa ei ole käsitelty ja ohjeistettu seuraavia tunnistettuj
 * Hila-aineistot
 * Maastomallit, korkeusmallit (TIN kolmiomallit)
 * Kaupunkimallit
+* Esitystyyli SLD-määrittelyinä
 
 ## Lyhyesti:
 1. Arvioi ja valitse aineiston ja oletetun käyttäjäryhmän mukainen formaatti.
