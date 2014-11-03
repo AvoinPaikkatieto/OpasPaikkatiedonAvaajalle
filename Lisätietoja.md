@@ -5,12 +5,10 @@
 * Alueelliset avoimen datan hakemistot (HRI, Open Tre)
   - [Avoindata.fi](http://www.avoindata.fi)
   - [FMI catalog](http://catalog.fmi.fi)
-* Facebook: [Finnish Open Data Ecosystem](https://www.facebook.com/groups/fi.okfn/)
-* (jotain muuta, mitä?)
-* Yläotsikko
-  - Alaotsikko 1
-  - Alaotsikko 2
-* Lisää juttuja
+* Facebook: 
+  - [Finnish Open Data Ecosystem](https://www.facebook.com/groups/fi.okfn/)
+  - GIS Velhot
+  - 
 
 
 
