@@ -1,6 +1,7 @@
 #Lisätietoja
 
 * Datan avaamisen oppaita
+  - <Tähän kaivattaisiin linkkejä>
 * [Paikkatietohakemisto](http://www.paikkatietohakemisto.fi)
 * Alueelliset avoimen datan hakemistot (HRI, Open Tre)
   - Helsinki Region Infoshare: http://www.hri.fi
