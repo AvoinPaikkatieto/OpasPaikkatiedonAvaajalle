@@ -7,8 +7,8 @@
   - [FMI catalog](http://catalog.fmi.fi)
 * Facebook: 
   - [Finnish Open Data Ecosystem](https://www.facebook.com/groups/fi.okfn/)
-  - GIS Velhot
-  - 
+  - [GIS Velhot](https://www.facebook.com/groups/gisvelhot/)
+  
 
 
 
