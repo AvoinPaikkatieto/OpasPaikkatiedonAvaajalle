@@ -12,7 +12,7 @@
  - Finnish Open Data Ecosystem, https://www.facebook.com/groups/fi.okfn/
  - Open Data Tampere, https://www.facebook.com/groups/opendatatre/
  - Open Data Turku, https://www.facebook.com/groups/opendatatku
- - Open Data Jyväskylä, https://www.facebook.com/groups/opendatatku
+ - Open Data Jyväskylä, https://www.facebook.com/groups/opendatajkl
  - Open Data Mikkeli, https://www.facebook.com/groups/opendatamikkeli
  - Open Data Oulu, https://www.facebook.com/groups/opendataoulu
  - Open Data Kuopio, https://www.facebook.com/groups/opendatakuopio
