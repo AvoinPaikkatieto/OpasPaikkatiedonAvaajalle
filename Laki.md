@@ -8,6 +8,7 @@ Julkisen hallinnon tuottaman ja hallinnoiman tiedon hyödyntämistä ohjaa lains
 -	Tietoturvallisuusasetus ([681/2010](http://www.finlex.fi/fi/laki/alkup/2010/20100681))
 -	Tekijänoikeuslaki ([404/1961](http://www.finlex.fi/fi/laki/ajantasa/1961/19610404)) 
 -	Valtion maksuperustelaki ([150/1992](http://www.finlex.fi/fi/laki/ajantasa/1992/19920150)) ja sen pohjalta annettavat asetukset ja hinnastot
+-	Aluevalvontalaki ([755/2000](http://www.finlex.fi/fi/laki/ajantasa/2000/20000755)) 14§
 
 Julkisen tiedon avaaminen mahdollistaa tietoaineiston hyödyntämisen kaikkiin käyttötarkoituksiin, mutta kaikkea julkista tietoa ei voida avata. Tiedon luovuttamista rajoittavat mm.
 -	kansallinen ja kansalaisten turvallisuus
